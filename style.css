@@ -1,0 +1,70 @@
+.nav{
+    background-color: pink;
+    margin: 0;
+}
+.nav li{
+    display: inline-block;
+    padding: 15px;
+    
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-left: 0px;
+}
+.center{
+    display: block;
+    margin: auto;
+}
+.text-center{
+    text-align: center;
+}
+body{
+    margin: 0;
+    background-color: aliceblue;
+}
+.border-main{
+    width: 900px;
+    height: 1500px;
+    border: 1px solid pink;
+    margin-top: 50px;
+}
+.border-permovie{
+    width: 900px;
+    height: 1000px;
+    border: 1px solid pink;
+    margin-top: 50px;
+}
+.list-movie{
+    width: 800px;
+    height: 200px;
+    border: 1px solid burlywood;
+    margin: 50px;
+}
+.background{
+    color: mistyrose;
+}
+.img{
+    width: 130px;
+    height: 180px;
+    margin-top: 10px;
+    margin-left: 50px;
+    float: left;
+}
+.border-detail{
+    width: 800px;
+    height: 800px;
+    border: 1px solid burlywood;
+    margin: 50px;
+}
+.video{
+    margin-left: 100px;
+    width: 500px;
+}
+
+.footer{
+    background-color: mistyrose;
+    color: black;
+    text-align: center;
+    padding: 15px;
+}
